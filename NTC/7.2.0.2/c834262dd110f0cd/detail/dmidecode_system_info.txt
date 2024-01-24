@@ -1,0 +1,3 @@
+	Manufacturer: Dell Inc.
+	Product Name: XPS 13 9380
+	Version: Not Specified

@@ -1,0 +1,3 @@
+	Manufacturer: LENOVO
+	Product Name: 20EQS64N00
+	Version: ThinkPad P50

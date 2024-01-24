@@ -1,0 +1,3 @@
+	Manufacturer: Dell Inc.
+	Product Name: PowerEdge M630
+	Version: Not Specified

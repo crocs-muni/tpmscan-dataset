@@ -1,0 +1,47 @@
+Execution date/time: "2023/03/15 08:26:14"
+Manufacturer: "NTC"
+Vendor string: "rlsNPCT  "
+Firmware version: "1.3.1.0"
+Image tag: "v2.2"
+Device manufacturer: "Dell Inc."
+Device name: "PowerEdge R7515"
+Device version: "Not Specified"
+BIOS version: "2.3.6"
+System information: "Linux beaker.redhat.com 4.18.0-425.13.1.el8_7.x86_64 #1 SMP Thu Feb 2 13:01:45 EST 2023 x86_64 x86_64 x86_64 GNU/Linux"
+
+
+TPM2_GetRandom:
+- data length (bytes): 32
+  operation stats (ms/op):
+    avg op: 4.66
+    min op: 4.31
+    max op: 4.89
+  operation info:
+    total iterations: 1000
+    successful: 1000
+    failed: 0
+    error: None
+
+TPM2_Hash:
+- hash algorithm: 0x0004
+  data length (bytes): 256
+  operation stats (ms/op):
+    avg op: 4.90
+    min op: 3.99
+    max op: 5.01
+  operation info:
+    total iterations: 1000
+    successful: 1000
+    failed: 0
+    error: None
+- hash algorithm: 0x000b
+  data length (bytes): 256
+  operation stats (ms/op):
+    avg op: 5.00
+    min op: 4.99
+    max op: 5.01
+  operation info:
+    total iterations: 1000
+    successful: 1000
+    failed: 0
+    error: None

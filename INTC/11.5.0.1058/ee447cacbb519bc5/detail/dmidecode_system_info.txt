@@ -1,0 +1,4 @@
+System Information
+	Manufacturer: ASUSTeK COMPUTER INC.
+	Product Name: UX410UAK
+	Version: 1.0       

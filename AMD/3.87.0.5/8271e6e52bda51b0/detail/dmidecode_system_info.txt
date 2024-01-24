@@ -1,0 +1,3 @@
+	Manufacturer: HP
+	Product Name: HP ENVY x360 Convertible 15-ee0xxx
+	Version: Type1ProductConfigId

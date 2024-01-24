@@ -1,0 +1,51 @@
+Anonymized:
+  pub prefix: 02d86d
+  pub suffix: 7a8d
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 376194382 (0x166c454e)
+        Signature Algorithm: ecdsa-with-SHA256
+        Issuer: C = DE, O = Infineon Technologies AG, OU = OPTIGA(TM) TPM2.0, CN = Infineon OPTIGA(TM) ECC Manufacturing CA 007
+        Validity
+            Not Before: Nov 18 21:56:42 2016 GMT
+            Not After : Nov 18 21:56:42 2031 GMT
+        Subject: 
+        Subject Public Key Info:
+            Public Key Algorithm: id-ecPublicKey
+                Public-Key: (256 bit)
+                pub:
+                    XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:
+                    XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:
+                    XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:
+                    XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:
+                    XX:XX:XX:XX:XX
+                ASN1 OID: prime256v1
+                NIST CURVE: P-256
+        X509v3 extensions:
+            Authority Information Access: 
+                CA Issuers - URI:http://pki.infineon.com/OptigaEccMfrCA007/OptigaEccMfrCA007.crt
+            X509v3 Key Usage: critical
+                Key Agreement
+            X509v3 Subject Alternative Name: critical
+                XXXXXXX:XXXXXXXXXXXXXXXX:XXXXXXXXXXXXXXXXXXXXXXXXX XXXX XXXXXXXXXXXXXXXXXXXXXX:XXXX
+            X509v3 Basic Constraints: critical
+                CA:FALSE
+            X509v3 CRL Distribution Points: 
+                Full Name:
+                  URI:http://pki.infineon.com/OptigaEccMfrCA007/OptigaEccMfrCA007.crl
+            X509v3 Certificate Policies: 
+                Policy: 1.2.276.0.68.1.20.1
+            X509v3 Authority Key Identifier: 
+                F6:5C:28:9B:3D:93:B7:8F:97:8A:C8:D0:17:B7:94:7D:A9:36:37:A5
+            X509v3 Extended Key Usage: 
+                2.23.133.8.1
+            X509v3 Subject Directory Attributes: 
+                0.0...g....10...2.0.....t
+    Signature Algorithm: ecdsa-with-SHA256
+    Signature Value:
+        XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:
+        XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:
+        XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:
+        XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX
+

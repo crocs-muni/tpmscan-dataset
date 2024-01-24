@@ -1,0 +1,4 @@
+System Information
+	Manufacturer: ASUSTeK COMPUTER INC.
+	Product Name: X541SC
+	Version: 1.0       

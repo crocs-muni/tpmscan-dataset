@@ -1,0 +1,4 @@
+System Information
+	Manufacturer: LENOVO
+	Product Name: 20NYS7K91X
+	Version: ThinkPad T490s

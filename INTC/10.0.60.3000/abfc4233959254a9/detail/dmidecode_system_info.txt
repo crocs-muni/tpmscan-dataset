@@ -1,0 +1,4 @@
+System Information
+	Manufacturer: LENOVO
+	Product Name: 20BUS1CJ1T
+	Version: ThinkPad T450

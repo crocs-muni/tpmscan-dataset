@@ -1,0 +1,3 @@
+	Manufacturer: Dell Inc.
+	Product Name: PowerEdge R7515
+	Version: Not Specified

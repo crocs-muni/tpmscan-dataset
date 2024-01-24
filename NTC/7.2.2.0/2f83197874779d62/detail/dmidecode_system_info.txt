@@ -1,0 +1,3 @@
+	Manufacturer: Lenovo
+	Product Name: ThinkSystem ST250 V2
+	Version: 03

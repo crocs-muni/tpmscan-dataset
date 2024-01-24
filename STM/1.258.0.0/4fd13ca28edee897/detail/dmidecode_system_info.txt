@@ -1,0 +1,3 @@
+	Manufacturer: LENOVO
+	Product Name: 20TJS2F437
+	Version: ThinkPad P1 Gen 3

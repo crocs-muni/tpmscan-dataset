@@ -1,0 +1,4 @@
+System Information
+	Manufacturer: LENOVO
+	Product Name: 20EQS64N13
+	Version: ThinkPad P50

@@ -1,0 +1,3 @@
+	Manufacturer: ASUSTeK COMPUTER INC.
+	Product Name: UX360UAK
+	Version: 1.0       

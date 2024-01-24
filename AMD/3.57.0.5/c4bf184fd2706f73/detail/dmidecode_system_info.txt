@@ -1,0 +1,3 @@
+	Manufacturer: LENOVO
+	Product Name: 82L7
+	Version: IdeaPad 5 Pro 14ACN6

@@ -1,0 +1,47 @@
+Anonymized:
+  pub prefix: 0296ea
+  pub suffix: 9a6b
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number:
+            XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX
+        Signature Algorithm: ecdsa-with-SHA256
+        Issuer: C = CH, O = STMicroelectronics NV, CN = STM TPM ECC Intermediate CA 02
+        Validity
+            Not Before: Aug  9 00:00:00 2021 GMT
+            Not After : Dec 31 00:00:00 2049 GMT
+        Subject: 
+        Subject Public Key Info:
+            Public Key Algorithm: id-ecPublicKey
+                Public-Key: (256 bit)
+                pub:
+                    XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:
+                    XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:
+                    XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:
+                    XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:
+                    XX:XX:XX:XX:XX
+                ASN1 OID: prime256v1
+                NIST CURVE: P-256
+        X509v3 extensions:
+            X509v3 Authority Key Identifier: 
+                66:2D:8F:1C:EC:DF:F1:47:A8:B6:F0:EA:29:6A:F7:F2:4C:AD:F9:CF
+            X509v3 Subject Alternative Name: critical
+                XXXXXXX:XXXXXXXXXXXXXXXX:XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX:XXXXXXXX
+            X509v3 Subject Directory Attributes: 
+                0.0...g....1.0...2.0.......
+            X509v3 Basic Constraints: critical
+                CA:FALSE
+            X509v3 Extended Key Usage: 
+                2.23.133.8.1
+            X509v3 Key Usage: critical
+                Key Agreement
+            Authority Information Access: 
+                CA Issuers - URI:http://secure.globalsign.com/stmtpmeccint02.crt
+    Signature Algorithm: ecdsa-with-SHA256
+    Signature Value:
+        XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:
+        XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:
+        XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:
+        XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX
+

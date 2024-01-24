@@ -1,0 +1,1112 @@
+Execution date/time: "2023/03/14 19:41:12"
+Manufacturer: "INTC"
+Vendor string: "ADL"
+Firmware version: "600.18.25.2027"
+Image tag: "v2.2"
+Device manufacturer: "Intel Corporation"
+Device name: "Alder Lake Client Platform"
+Device version: "0.1"
+BIOS version: "ADLPFWI1.R00.3404.B00.2209300641"
+System information: "Linux beaker.redhat.com 4.18.0-425.13.1.el8_7.x86_64 #1 SMP Thu Feb 2 13:01:45 EST 2023 x86_64 x86_64 x86_64 GNU/Linux"
+
+
+TPM2_Create:
+- key parameters: ECC 0x0003
+  operation stats (ms/op):
+    avg op: 16.75
+    min op: 16.43
+    max op: 17.78
+  operation info:
+    total iterations: 1000
+    successful: 1000
+    failed: 0
+    error: None
+- key parameters: ECC 0x0004
+  operation stats (ms/op):
+    avg op: 28.12
+    min op: 27.56
+    max op: 28.81
+  operation info:
+    total iterations: 1000
+    successful: 1000
+    failed: 0
+    error: None
+- key parameters: ECC 0x0010
+  operation stats (ms/op):
+    avg op: 16.76
+    min op: 16.26
+    max op: 17.87
+  operation info:
+    total iterations: 1000
+    successful: 1000
+    failed: 0
+    error: None
+- key parameters: ECC 0x0020
+  operation stats (ms/op):
+    avg op: 16.75
+    min op: 16.18
+    max op: 17.77
+  operation info:
+    total iterations: 1000
+    successful: 1000
+    failed: 0
+    error: None
+- key parameters: HMAC
+  operation stats (ms/op):
+    avg op: 7.49
+    min op: 7.24
+    max op: 8.33
+  operation info:
+    total iterations: 1000
+    successful: 1000
+    failed: 0
+    error: None
+- key parameters: RSA 2048
+  operation stats (ms/op):
+    avg op: 2235.55
+    min op: 101.50
+    max op: 12083.47
+  operation info:
+    total iterations: 1000
+    successful: 1000
+    failed: 0
+    error: None
+- key parameters: SYMCIPHER 0x0006 128
+  operation stats (ms/op):
+    avg op: 7.48
+    min op: 7.28
+    max op: 9.25
+  operation info:
+    total iterations: 1000
+    successful: 1000
+    failed: 0
+    error: None
+- key parameters: SYMCIPHER 0x0006 256
+  operation stats (ms/op):
+    avg op: 7.43
+    min op: 7.18
+    max op: 9.30
+  operation info:
+    total iterations: 1000
+    successful: 1000
+    failed: 0
+    error: None
+- key parameters: SYMCIPHER 0x0013 128
+  operation stats (ms/op):
+    avg op: 7.48
+    min op: 7.23
+    max op: 9.53
+  operation info:
+    total iterations: 1000
+    successful: 1000
+    failed: 0
+    error: None
+
+TPM2_EncryptDecrypt:
+- algorithm: 0x0006
+  key length: 128
+  mode: 0x0040
+  encrypt/decrypt?: decrypt
+  data length (bytes): 256
+  operation stats (ms/op):
+    avg op: 3.00
+    min op: 2.96
+    max op: 3.19
+  operation info:
+    total iterations: 1000
+    successful: 1000
+    failed: 0
+    error: None
+- algorithm: 0x0006
+  key length: 128
+  mode: 0x0040
+  encrypt/decrypt?: encrypt
+  data length (bytes): 256
+  operation stats (ms/op):
+    avg op: 3.00
+    min op: 2.95
+    max op: 3.04
+  operation info:
+    total iterations: 1000
+    successful: 1000
+    failed: 0
+    error: None
+- algorithm: 0x0006
+  key length: 128
+  mode: 0x0041
+  encrypt/decrypt?: decrypt
+  data length (bytes): 256
+  operation stats (ms/op):
+    avg op: 3.00
+    min op: 2.97
+    max op: 3.21
+  operation info:
+    total iterations: 1000
+    successful: 1000
+    failed: 0
+    error: None
+- algorithm: 0x0006
+  key length: 128
+  mode: 0x0041
+  encrypt/decrypt?: encrypt
+  data length (bytes): 256
+  operation stats (ms/op):
+    avg op: 3.00
+    min op: 2.94
+    max op: 4.00
+  operation info:
+    total iterations: 1000
+    successful: 1000
+    failed: 0
+    error: None
+- algorithm: 0x0006
+  key length: 128
+  mode: 0x0042
+  encrypt/decrypt?: decrypt
+  data length (bytes): 256
+  operation stats (ms/op):
+    avg op: 3.00
+    min op: 2.97
+    max op: 3.17
+  operation info:
+    total iterations: 1000
+    successful: 1000
+    failed: 0
+    error: None
+- algorithm: 0x0006
+  key length: 128
+  mode: 0x0042
+  encrypt/decrypt?: encrypt
+  data length (bytes): 256
+  operation stats (ms/op):
+    avg op: 3.00
+    min op: 2.35
+    max op: 3.29
+  operation info:
+    total iterations: 1000
+    successful: 1000
+    failed: 0
+    error: None
+- algorithm: 0x0006
+  key length: 128
+  mode: 0x0043
+  encrypt/decrypt?: decrypt
+  data length (bytes): 256
+  operation stats (ms/op):
+    avg op: 3.00
+    min op: 2.97
+    max op: 3.20
+  operation info:
+    total iterations: 1000
+    successful: 1000
+    failed: 0
+    error: None
+- algorithm: 0x0006
+  key length: 128
+  mode: 0x0043
+  encrypt/decrypt?: encrypt
+  data length (bytes): 256
+  operation stats (ms/op):
+    avg op: 3.00
+    min op: 2.96
+    max op: 3.21
+  operation info:
+    total iterations: 1000
+    successful: 1000
+    failed: 0
+    error: None
+- algorithm: 0x0006
+  key length: 128
+  mode: 0x0044
+  encrypt/decrypt?: decrypt
+  data length (bytes): 256
+  operation stats (ms/op):
+    avg op: 3.00
+    min op: 2.89
+    max op: 3.17
+  operation info:
+    total iterations: 1000
+    successful: 1000
+    failed: 0
+    error: None
+- algorithm: 0x0006
+  key length: 128
+  mode: 0x0044
+  encrypt/decrypt?: encrypt
+  data length (bytes): 256
+  operation stats (ms/op):
+    avg op: 3.00
+    min op: 2.96
+    max op: 3.17
+  operation info:
+    total iterations: 1000
+    successful: 1000
+    failed: 0
+    error: None
+- algorithm: 0x0006
+  key length: 256
+  mode: 0x0040
+  encrypt/decrypt?: decrypt
+  data length (bytes): 256
+  operation stats (ms/op):
+    avg op: 3.00
+    min op: 2.97
+    max op: 3.29
+  operation info:
+    total iterations: 1000
+    successful: 1000
+    failed: 0
+    error: None
+- algorithm: 0x0006
+  key length: 256
+  mode: 0x0040
+  encrypt/decrypt?: encrypt
+  data length (bytes): 256
+  operation stats (ms/op):
+    avg op: 3.00
+    min op: 2.97
+    max op: 3.15
+  operation info:
+    total iterations: 1000
+    successful: 1000
+    failed: 0
+    error: None
+- algorithm: 0x0006
+  key length: 256
+  mode: 0x0041
+  encrypt/decrypt?: decrypt
+  data length (bytes): 256
+  operation stats (ms/op):
+    avg op: 3.00
+    min op: 2.96
+    max op: 3.20
+  operation info:
+    total iterations: 1000
+    successful: 1000
+    failed: 0
+    error: None
+- algorithm: 0x0006
+  key length: 256
+  mode: 0x0041
+  encrypt/decrypt?: encrypt
+  data length (bytes): 256
+  operation stats (ms/op):
+    avg op: 3.00
+    min op: 2.96
+    max op: 4.00
+  operation info:
+    total iterations: 1000
+    successful: 1000
+    failed: 0
+    error: None
+- algorithm: 0x0006
+  key length: 256
+  mode: 0x0042
+  encrypt/decrypt?: decrypt
+  data length (bytes): 256
+  operation stats (ms/op):
+    avg op: 3.00
+    min op: 2.96
+    max op: 4.00
+  operation info:
+    total iterations: 1000
+    successful: 1000
+    failed: 0
+    error: None
+- algorithm: 0x0006
+  key length: 256
+  mode: 0x0042
+  encrypt/decrypt?: encrypt
+  data length (bytes): 256
+  operation stats (ms/op):
+    avg op: 3.00
+    min op: 2.94
+    max op: 3.13
+  operation info:
+    total iterations: 1000
+    successful: 1000
+    failed: 0
+    error: None
+- algorithm: 0x0006
+  key length: 256
+  mode: 0x0043
+  encrypt/decrypt?: decrypt
+  data length (bytes): 256
+  operation stats (ms/op):
+    avg op: 3.00
+    min op: 2.94
+    max op: 3.21
+  operation info:
+    total iterations: 1000
+    successful: 1000
+    failed: 0
+    error: None
+- algorithm: 0x0006
+  key length: 256
+  mode: 0x0043
+  encrypt/decrypt?: encrypt
+  data length (bytes): 256
+  operation stats (ms/op):
+    avg op: 3.00
+    min op: 2.97
+    max op: 3.13
+  operation info:
+    total iterations: 1000
+    successful: 1000
+    failed: 0
+    error: None
+- algorithm: 0x0006
+  key length: 256
+  mode: 0x0044
+  encrypt/decrypt?: decrypt
+  data length (bytes): 256
+  operation stats (ms/op):
+    avg op: 3.00
+    min op: 2.94
+    max op: 4.00
+  operation info:
+    total iterations: 1000
+    successful: 1000
+    failed: 0
+    error: None
+- algorithm: 0x0006
+  key length: 256
+  mode: 0x0044
+  encrypt/decrypt?: encrypt
+  data length (bytes): 256
+  operation stats (ms/op):
+    avg op: 3.00
+    min op: 2.95
+    max op: 3.18
+  operation info:
+    total iterations: 1000
+    successful: 1000
+    failed: 0
+    error: None
+- algorithm: 0x0013
+  key length: 128
+  mode: 0x0040
+  encrypt/decrypt?: decrypt
+  data length (bytes): 256
+  operation stats (ms/op):
+    avg op: 7.36
+    min op: 6.91
+    max op: 9.00
+  operation info:
+    total iterations: 1000
+    successful: 1000
+    failed: 0
+    error: None
+- algorithm: 0x0013
+  key length: 128
+  mode: 0x0040
+  encrypt/decrypt?: encrypt
+  data length (bytes): 256
+  operation stats (ms/op):
+    avg op: 7.39
+    min op: 6.92
+    max op: 8.93
+  operation info:
+    total iterations: 1000
+    successful: 1000
+    failed: 0
+    error: None
+- algorithm: 0x0013
+  key length: 128
+  mode: 0x0041
+  encrypt/decrypt?: decrypt
+  data length (bytes): 256
+  operation stats (ms/op):
+    avg op: 12.29
+    min op: 11.85
+    max op: 13.18
+  operation info:
+    total iterations: 1000
+    successful: 1000
+    failed: 0
+    error: None
+- algorithm: 0x0013
+  key length: 128
+  mode: 0x0041
+  encrypt/decrypt?: encrypt
+  data length (bytes): 256
+  operation stats (ms/op):
+    avg op: 12.29
+    min op: 11.84
+    max op: 13.60
+  operation info:
+    total iterations: 1000
+    successful: 1000
+    failed: 0
+    error: None
+- algorithm: 0x0013
+  key length: 128
+  mode: 0x0042
+  encrypt/decrypt?: decrypt
+  data length (bytes): 256
+  operation stats (ms/op):
+    avg op: 7.30
+    min op: 6.87
+    max op: 8.47
+  operation info:
+    total iterations: 1000
+    successful: 1000
+    failed: 0
+    error: None
+- algorithm: 0x0013
+  key length: 128
+  mode: 0x0042
+  encrypt/decrypt?: encrypt
+  data length (bytes): 256
+  operation stats (ms/op):
+    avg op: 7.36
+    min op: 6.90
+    max op: 8.44
+  operation info:
+    total iterations: 1000
+    successful: 1000
+    failed: 0
+    error: None
+- algorithm: 0x0013
+  key length: 128
+  mode: 0x0043
+  encrypt/decrypt?: decrypt
+  data length (bytes): 256
+  operation stats (ms/op):
+    avg op: 12.31
+    min op: 11.85
+    max op: 13.03
+  operation info:
+    total iterations: 1000
+    successful: 1000
+    failed: 0
+    error: None
+- algorithm: 0x0013
+  key length: 128
+  mode: 0x0043
+  encrypt/decrypt?: encrypt
+  data length (bytes): 256
+  operation stats (ms/op):
+    avg op: 12.30
+    min op: 11.87
+    max op: 12.98
+  operation info:
+    total iterations: 1000
+    successful: 1000
+    failed: 0
+    error: None
+- algorithm: 0x0013
+  key length: 128
+  mode: 0x0044
+  encrypt/decrypt?: decrypt
+  data length (bytes): 256
+  operation stats (ms/op):
+    avg op: 7.17
+    min op: 6.88
+    max op: 8.02
+  operation info:
+    total iterations: 1000
+    successful: 1000
+    failed: 0
+    error: None
+- algorithm: 0x0013
+  key length: 128
+  mode: 0x0044
+  encrypt/decrypt?: encrypt
+  data length (bytes): 256
+  operation stats (ms/op):
+    avg op: 7.17
+    min op: 6.86
+    max op: 8.02
+  operation info:
+    total iterations: 1000
+    successful: 1000
+    failed: 0
+    error: None
+
+TPM2_GetRandom:
+- data length (bytes): 32
+  operation stats (ms/op):
+    avg op: 1.50
+    min op: 1.36
+    max op: 2.38
+  operation info:
+    total iterations: 1000
+    successful: 1000
+    failed: 0
+    error: None
+
+TPM2_HMAC:
+- hash algorithm: SHA-256
+  data length (bytes): 256
+  operation stats (ms/op):
+    avg op: 2.75
+    min op: 2.43
+    max op: 3.02
+  operation info:
+    total iterations: 1000
+    successful: 1000
+    failed: 0
+    error: None
+
+TPM2_Hash:
+- hash algorithm: 0x0004
+  data length (bytes): 256
+  operation stats (ms/op):
+    avg op: 2.67
+    min op: 2.41
+    max op: 2.82
+  operation info:
+    total iterations: 1000
+    successful: 1000
+    failed: 0
+    error: None
+- hash algorithm: 0x000b
+  data length (bytes): 256
+  operation stats (ms/op):
+    avg op: 2.75
+    min op: 2.42
+    max op: 2.82
+  operation info:
+    total iterations: 1000
+    successful: 1000
+    failed: 0
+    error: None
+- hash algorithm: 0x000c
+  data length (bytes): 256
+  operation stats (ms/op):
+    avg op: 2.75
+    min op: 2.52
+    max op: 2.92
+  operation info:
+    total iterations: 1000
+    successful: 1000
+    failed: 0
+    error: None
+- hash algorithm: 0x0012
+  data length (bytes): 256
+  operation stats (ms/op):
+    avg op: 2.75
+    min op: 2.43
+    max op: 2.82
+  operation info:
+    total iterations: 1000
+    successful: 1000
+    failed: 0
+    error: None
+
+TPM2_RSA_Decrypt:
+- key parameters: RSA 2048
+  scheme: 0x0010
+  operation stats (ms/op):
+    avg op: 19.01
+    min op: 18.80
+    max op: 19.99
+  operation info:
+    total iterations: 1000
+    successful: 1000
+    failed: 0
+    error: None
+- key parameters: RSA 2048
+  scheme: 0x0015
+  operation stats (ms/op):
+    avg op: 18.98
+    min op: 18.71
+    max op: 19.11
+  operation info:
+    total iterations: 1000
+    successful: 1000
+    failed: 0
+    error: None
+- key parameters: RSA 2048
+  scheme: 0x0017
+  operation stats (ms/op):
+    avg op: 20.52
+    min op: 19.90
+    max op: 21.34
+  operation info:
+    total iterations: 1000
+    successful: 1000
+    failed: 0
+    error: None
+
+TPM2_RSA_Encrypt:
+- key parameters: RSA 2048
+  scheme: 0x0010
+  operation stats (ms/op):
+    avg op: 4.98
+    min op: 4.78
+    max op: 5.37
+  operation info:
+    total iterations: 1000
+    successful: 1000
+    failed: 0
+    error: None
+- key parameters: RSA 2048
+  scheme: 0x0015
+  operation stats (ms/op):
+    avg op: 4.98
+    min op: 4.87
+    max op: 6.07
+  operation info:
+    total iterations: 1000
+    successful: 1000
+    failed: 0
+    error: None
+- key parameters: RSA 2048
+  scheme: 0x0017
+  operation stats (ms/op):
+    avg op: 6.11
+    min op: 5.86
+    max op: 7.04
+  operation info:
+    total iterations: 1000
+    successful: 1000
+    failed: 0
+    error: None
+
+TPM2_Sign:
+- key parameters: ECC 0x0003
+  scheme: 0x0018
+  operation stats (ms/op):
+    avg op: 12.98
+    min op: 12.75
+    max op: 13.23
+  operation info:
+    total iterations: 1000
+    successful: 1000
+    failed: 0
+    error: None
+- key parameters: ECC 0x0003
+  scheme: 0x001a
+  operation stats (ms/op):
+    avg op: 3.97
+    min op: 3.56
+    max op: 4.10
+  operation info:
+    total iterations: 1000
+    successful: 1000
+    failed: 0
+    error: None
+- key parameters: ECC 0x0003
+  scheme: 0x001b
+  operation stats (ms/op):
+    avg op: 12.98
+    min op: 12.64
+    max op: 14.00
+  operation info:
+    total iterations: 1000
+    successful: 1000
+    failed: 0
+    error: None
+- key parameters: ECC 0x0003
+  scheme: 0x001c
+  operation stats (ms/op):
+    avg op: 12.98
+    min op: 12.16
+    max op: 14.04
+  operation info:
+    total iterations: 1000
+    successful: 1000
+    failed: 0
+    error: None
+- key parameters: ECC 0x0004
+  scheme: 0x0018
+  operation stats (ms/op):
+    avg op: 24.98
+    min op: 24.44
+    max op: 25.88
+  operation info:
+    total iterations: 1000
+    successful: 1000
+    failed: 0
+    error: None
+- key parameters: ECC 0x0004
+  scheme: 0x001a
+  operation stats (ms/op):
+    avg op: 3.97
+    min op: 3.58
+    max op: 5.00
+  operation info:
+    total iterations: 1000
+    successful: 1000
+    failed: 0
+    error: None
+- key parameters: ECC 0x0004
+  scheme: 0x001b
+  operation stats (ms/op):
+    avg op: 24.98
+    min op: 24.49
+    max op: 25.96
+  operation info:
+    total iterations: 1000
+    successful: 1000
+    failed: 0
+    error: None
+- key parameters: ECC 0x0004
+  scheme: 0x001c
+  operation stats (ms/op):
+    avg op: 23.98
+    min op: 23.58
+    max op: 25.01
+  operation info:
+    total iterations: 1000
+    successful: 1000
+    failed: 0
+    error: None
+- key parameters: ECC 0x0010
+  scheme: 0x0018
+  operation stats (ms/op):
+    avg op: 12.03
+    min op: 11.88
+    max op: 13.98
+  operation info:
+    total iterations: 1000
+    successful: 1000
+    failed: 0
+    error: None
+- key parameters: ECC 0x0010
+  scheme: 0x001a
+  operation stats (ms/op):
+    avg op: 3.97
+    min op: 3.85
+    max op: 4.09
+  operation info:
+    total iterations: 1000
+    successful: 1000
+    failed: 0
+    error: None
+- key parameters: ECC 0x0010
+  scheme: 0x001b
+  operation stats (ms/op):
+    avg op: 12.98
+    min op: 12.57
+    max op: 13.22
+  operation info:
+    total iterations: 1000
+    successful: 1000
+    failed: 0
+    error: None
+- key parameters: ECC 0x0010
+  scheme: 0x001c
+  operation stats (ms/op):
+    avg op: 12.34
+    min op: 11.88
+    max op: 13.92
+  operation info:
+    total iterations: 1000
+    successful: 1000
+    failed: 0
+    error: None
+- key parameters: ECC 0x0020
+  scheme: 0x0018
+  operation stats (ms/op):
+    avg op: 12.98
+    min op: 12.56
+    max op: 13.19
+  operation info:
+    total iterations: 1000
+    successful: 1000
+    failed: 0
+    error: None
+- key parameters: ECC 0x0020
+  scheme: 0x001a
+  operation stats (ms/op):
+    avg op: 3.97
+    min op: 3.78
+    max op: 4.28
+  operation info:
+    total iterations: 1000
+    successful: 1000
+    failed: 0
+    error: None
+- key parameters: ECC 0x0020
+  scheme: 0x001b
+  operation stats (ms/op):
+    avg op: 12.98
+    min op: 12.82
+    max op: 13.43
+  operation info:
+    total iterations: 1000
+    successful: 1000
+    failed: 0
+    error: None
+- key parameters: ECC 0x0020
+  scheme: 0x001c
+  operation stats (ms/op):
+    avg op: 12.98
+    min op: 12.56
+    max op: 13.15
+  operation info:
+    total iterations: 1000
+    successful: 1000
+    failed: 0
+    error: None
+- key parameters: RSA 2048
+  scheme: 0x0014
+  operation stats (ms/op):
+    avg op: 18.98
+    min op: 18.80
+    max op: 20.04
+  operation info:
+    total iterations: 1000
+    successful: 1000
+    failed: 0
+    error: None
+- key parameters: RSA 2048
+  scheme: 0x0016
+  operation stats (ms/op):
+    avg op: 20.33
+    min op: 19.90
+    max op: 21.09
+  operation info:
+    total iterations: 1000
+    successful: 1000
+    failed: 0
+    error: None
+
+TPM2_VerifySignature:
+- key parameters: ECC 0x0003
+  scheme: 0x0018
+  operation stats (ms/op):
+    avg op: 9.00
+    min op: 8.78
+    max op: 9.85
+  operation info:
+    total iterations: 1000
+    successful: 1000
+    failed: 0
+    error: None
+- key parameters: ECC 0x0003
+  scheme: 0x001b
+  operation stats (ms/op):
+    avg op: 21.98
+    min op: 21.78
+    max op: 22.19
+  operation info:
+    total iterations: 1000
+    successful: 1000
+    failed: 0
+    error: None
+- key parameters: ECC 0x0003
+  scheme: 0x001c
+  operation stats (ms/op):
+    avg op: 22.98
+    min op: 22.81
+    max op: 23.72
+  operation info:
+    total iterations: 1000
+    successful: 1000
+    failed: 0
+    error: None
+- key parameters: ECC 0x0004
+  scheme: 0x0018
+  operation stats (ms/op):
+    avg op: 17.98
+    min op: 17.69
+    max op: 18.26
+  operation info:
+    total iterations: 1000
+    successful: 1000
+    failed: 0
+    error: None
+- key parameters: ECC 0x0004
+  scheme: 0x001b
+  operation stats (ms/op):
+    avg op: 44.98
+    min op: 44.68
+    max op: 46.04
+  operation info:
+    total iterations: 1000
+    successful: 1000
+    failed: 0
+    error: None
+- key parameters: ECC 0x0004
+  scheme: 0x001c
+  operation stats (ms/op):
+    avg op: 46.95
+    min op: 45.96
+    max op: 47.25
+  operation info:
+    total iterations: 1000
+    successful: 1000
+    failed: 0
+    error: None
+- key parameters: ECC 0x0010
+  scheme: 0x0018
+  operation stats (ms/op):
+    avg op: 8.80
+    min op: 8.31
+    max op: 9.87
+  operation info:
+    total iterations: 1000
+    successful: 1000
+    failed: 0
+    error: None
+- key parameters: ECC 0x0010
+  scheme: 0x001b
+  operation stats (ms/op):
+    avg op: 20.98
+    min op: 20.83
+    max op: 21.10
+  operation info:
+    total iterations: 1000
+    successful: 1000
+    failed: 0
+    error: None
+- key parameters: ECC 0x0010
+  scheme: 0x001c
+  operation stats (ms/op):
+    avg op: 22.85
+    min op: 21.96
+    max op: 23.09
+  operation info:
+    total iterations: 1000
+    successful: 1000
+    failed: 0
+    error: None
+- key parameters: ECC 0x0020
+  scheme: 0x0018
+  operation stats (ms/op):
+    avg op: 9.04
+    min op: 8.72
+    max op: 10.09
+  operation info:
+    total iterations: 1000
+    successful: 1000
+    failed: 0
+    error: None
+- key parameters: ECC 0x0020
+  scheme: 0x001b
+  operation stats (ms/op):
+    avg op: 21.98
+    min op: 21.84
+    max op: 22.15
+  operation info:
+    total iterations: 1000
+    successful: 1000
+    failed: 0
+    error: None
+- key parameters: ECC 0x0020
+  scheme: 0x001c
+  operation stats (ms/op):
+    avg op: 22.98
+    min op: 22.80
+    max op: 24.00
+  operation info:
+    total iterations: 1000
+    successful: 1000
+    failed: 0
+    error: None
+- key parameters: RSA 2048
+  scheme: 0x0014
+  operation stats (ms/op):
+    avg op: 4.88
+    min op: 4.08
+    max op: 5.34
+  operation info:
+    total iterations: 1000
+    successful: 1000
+    failed: 0
+    error: None
+- key parameters: RSA 2048
+  scheme: 0x0016
+  operation stats (ms/op):
+    avg op: 5.44
+    min op: 4.77
+    max op: 5.99
+  operation info:
+    total iterations: 1000
+    successful: 1000
+    failed: 0
+    error: None
+
+TPM2_ZGen:
+- key parameters: 0x0003
+  scheme: 0x0019
+  operation stats (ms/op):
+    avg op: 23.11
+    min op: 22.18
+    max op: 23.41
+  operation info:
+    total iterations: 1000
+    successful: 1000
+    failed: 0
+    error: None
+- key parameters: 0x0003
+  scheme: 0x001b
+  operation stats (ms/op):
+    avg op: 32.62
+    min op: 31.93
+    max op: 33.13
+  operation info:
+    total iterations: 1000
+    successful: 1000
+    failed: 0
+    error: None
+- key parameters: 0x0004
+  scheme: 0x0019
+  operation stats (ms/op):
+    avg op: 45.17
+    min op: 45.01
+    max op: 46.25
+  operation info:
+    total iterations: 1000
+    successful: 1000
+    failed: 0
+    error: None
+- key parameters: 0x0004
+  scheme: 0x001b
+  operation stats (ms/op):
+    avg op: 67.01
+    min op: 66.56
+    max op: 67.29
+  operation info:
+    total iterations: 1000
+    successful: 1000
+    failed: 0
+    error: None
+- key parameters: 0x0010
+  scheme: 0x0019
+  operation stats (ms/op):
+    avg op: 22.12
+    min op: 21.78
+    max op: 23.18
+  operation info:
+    total iterations: 1000
+    successful: 1000
+    failed: 0
+    error: None
+- key parameters: 0x0010
+  scheme: 0x001b
+  operation stats (ms/op):
+    avg op: 31.08
+    min op: 30.90
+    max op: 32.99
+  operation info:
+    total iterations: 1000
+    successful: 1000
+    failed: 0
+    error: None
+- key parameters: 0x0020
+  scheme: 0x0019
+  operation stats (ms/op):
+    avg op: 23.11
+    min op: 22.15
+    max op: 23.30
+  operation info:
+    total iterations: 1000
+    successful: 1000
+    failed: 0
+    error: None
+- key parameters: 0x0020
+  scheme: 0x001b
+  operation stats (ms/op):
+    avg op: 32.63
+    min op: 31.96
+    max op: 34.04
+  operation info:
+    total iterations: 1000
+    successful: 1000
+    failed: 0
+    error: None

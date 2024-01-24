@@ -1,0 +1,3 @@
+	Manufacturer: LENOVO
+	Product Name: 20NYS4JM2R
+	Version: ThinkPad T490s

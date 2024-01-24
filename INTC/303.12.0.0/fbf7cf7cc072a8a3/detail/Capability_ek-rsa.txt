@@ -1,0 +1,67 @@
+Anonymized:
+  n prefix: c143
+  n suffix: 9151
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number:
+            XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX
+        Signature Algorithm: ecdsa-with-SHA256
+        Issuer: C = US, ST = CA, L = Santa Clara, O = Intel Corporation, OU = TPM EK intermediate for SPTH_EPID_PROD_RK_0, CN = www.intel.com
+        Validity
+            Not Before: Feb  3 09:01:15 2023 GMT
+            Not After : Dec 31 00:00:00 2049 GMT
+        Subject: 
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:
+                    XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:
+                    XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:
+                    XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:
+                    XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:
+                    XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:
+                    XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:
+                    XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:
+                    XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:
+                    XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:
+                    XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:
+                    XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:
+                    XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:
+                    XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:
+                    XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:
+                    XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:
+                    XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:
+                    XX:XX
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Basic Constraints: critical
+                CA:FALSE
+            X509v3 Key Usage: critical
+                Key Encipherment
+            X509v3 Extended Key Usage: 
+                2.23.133.8.1
+            X509v3 Subject Directory Attributes: 
+                0.0...g....10...2.0.....]
+            X509v3 Subject Alternative Name: critical
+                XXXXXXX:XXXXXXXXXXXXXXXX:XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX:XXXXXXXX
+            X509v3 Authority Key Identifier: 
+                6C:A9:DF:62:A1:AA:E2:3E:0F:EB:7C:3F:5E:B8:E6:1E:CA:C1:7C:B7
+            X509v3 CRL Distribution Points: 
+                Full Name:
+                  URI:http://trustedservices.intel.com/content/CRL/ekcert/SPTH_EPID_PROD_RK_0.crl
+            Authority Information Access: 
+                CA Issuers - URI:http://trustedservices.intel.com/content/CRL/ekcert/SPTH_EPID_PROD_RK_0.cer
+            X509v3 Certificate Policies: 
+                Policy: 1.2.840.113741.1.5.2.1
+                  CPS: http://trustedservices.intel.com/content/CRL/ekcert/EKcertPolicyStatement.pdf
+                  User Notice:
+                    Explicit Text: TCPA Trusted Platform Module Endorsement
+    Signature Algorithm: ecdsa-with-SHA256
+    Signature Value:
+        XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:
+        XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:
+        XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:
+        XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX
+

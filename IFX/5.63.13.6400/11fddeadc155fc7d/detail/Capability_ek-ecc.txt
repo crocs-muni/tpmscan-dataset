@@ -1,0 +1,51 @@
+Anonymized:
+  pub prefix: 02b7b0
+  pub suffix: 2324
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 1406546758 (0x53d63346)
+        Signature Algorithm: ecdsa-with-SHA256
+        Issuer: C = DE, O = Infineon Technologies AG, OU = OPTIGA(TM) TPM2.0, CN = Infineon OPTIGA(TM) ECC Manufacturing CA 036
+        Validity
+            Not Before: Nov 26 07:59:45 2019 GMT
+            Not After : Nov 26 07:59:45 2034 GMT
+        Subject: 
+        Subject Public Key Info:
+            Public Key Algorithm: id-ecPublicKey
+                Public-Key: (256 bit)
+                pub:
+                    XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:
+                    XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:
+                    XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:
+                    XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:
+                    XX:XX:XX:XX:XX
+                ASN1 OID: prime256v1
+                NIST CURVE: P-256
+        X509v3 extensions:
+            Authority Information Access: 
+                CA Issuers - URI:http://pki.infineon.com/OptigaEccMfrCA036/OptigaEccMfrCA036.crt
+            X509v3 Key Usage: critical
+                Key Agreement
+            X509v3 Subject Alternative Name: critical
+                XXXXXXX:XXXXXXXXXXXXXXXX:XXXXXXXXXXXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXXXXXX:XXXX
+            X509v3 Basic Constraints: critical
+                CA:FALSE
+            X509v3 CRL Distribution Points: 
+                Full Name:
+                  URI:http://pki.infineon.com/OptigaEccMfrCA036/OptigaEccMfrCA036.crl
+            X509v3 Certificate Policies: 
+                Policy: 1.2.276.0.68.1.20.1
+            X509v3 Authority Key Identifier: 
+                36:2B:02:16:5C:AA:F5:17:10:EB:8D:A4:43:ED:5E:7A:07:A9:65:CB
+            X509v3 Extended Key Usage: 
+                2.23.133.8.1
+            X509v3 Subject Directory Attributes: 
+                0.0...g....10...2.0.....t
+    Signature Algorithm: ecdsa-with-SHA256
+    Signature Value:
+        XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:
+        XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:
+        XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:
+        XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX
+

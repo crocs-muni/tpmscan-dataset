@@ -1,0 +1,3 @@
+	Manufacturer: LENOVO
+	Product Name: 82JU
+	Version: Legion 5 15ACH6H

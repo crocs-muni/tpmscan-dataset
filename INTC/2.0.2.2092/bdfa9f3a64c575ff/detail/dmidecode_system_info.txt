@@ -1,0 +1,3 @@
+	Manufacturer: LENOVO
+	Product Name: 80R9
+	Version: Lenovo ideapad 100S-14IBR

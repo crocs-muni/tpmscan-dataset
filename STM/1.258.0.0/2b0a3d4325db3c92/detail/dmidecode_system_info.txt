@@ -1,0 +1,4 @@
+System Information
+	Manufacturer: LENOVO
+	Product Name: 20UES2WA00
+	Version: ThinkPad T14 Gen 1

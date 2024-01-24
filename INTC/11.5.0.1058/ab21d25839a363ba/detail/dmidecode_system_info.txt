@@ -1,0 +1,4 @@
+System Information
+	Manufacturer: LENOVO
+	Product Name: 80WQ
+	Version: Lenovo V510-15IKB

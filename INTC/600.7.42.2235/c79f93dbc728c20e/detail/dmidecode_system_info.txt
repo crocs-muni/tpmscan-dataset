@@ -1,0 +1,3 @@
+	Manufacturer: HP
+	Product Name: HP Pavilion Gaming Laptop 15-dk2xxx
+	Version: Type1ProductConfigId

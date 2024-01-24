@@ -1,0 +1,1 @@
+Linux sca 6.2.0-37-generic #38-Ubuntu SMP PREEMPT_DYNAMIC Mon Oct 30 21:04:52 UTC 2023 x86_64 x86_64 x86_64 GNU/Linux

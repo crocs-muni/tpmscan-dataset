@@ -1,0 +1,4 @@
+System Information
+	Manufacturer: LENOVO
+	Product Name: 20T1S39D12
+	Version: ThinkPad T14s Gen 1

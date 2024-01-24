@@ -1,0 +1,3 @@
+	Manufacturer: Lenovo
+	Product Name: ThinkSystem SR850 -[7X19CTO1WW]-
+	Version: 07

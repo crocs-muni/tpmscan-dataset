@@ -1,0 +1,3 @@
+	Manufacturer: HPE
+	Product Name: ProLiant m750 Server Blade
+	Version: Not Specified

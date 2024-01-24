@@ -1,0 +1,3 @@
+	Manufacturer: HPE
+	Product Name: ProLiant DL385 Gen11
+	Version: Not Specified

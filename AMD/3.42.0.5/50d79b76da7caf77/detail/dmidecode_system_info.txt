@@ -1,0 +1,3 @@
+	Manufacturer: Micro-Star International Co., Ltd.
+	Product Name: Modern 14 B4MW
+	Version: REV:1.0

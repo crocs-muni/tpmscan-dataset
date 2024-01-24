@@ -1,0 +1,3 @@
+	Manufacturer: Dell Inc.
+	Product Name: PowerEdge R840
+	Version: Not Specified

@@ -1,0 +1,47 @@
+Anonymized:
+  pub prefix: 027941
+  pub suffix: 33fd
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number:
+            XX:XX:XX:XX:XX:XX:XX:XX:XX:XX
+        Signature Algorithm: ecdsa-with-SHA256
+        Issuer: CN = Nuvoton TPM Root CA 2112 + O = Nuvoton Technology Corporation + C = TW
+        Validity
+            Not Before: Jan 19 11:08:16 2022 GMT
+            Not After : Jan 15 11:08:16 2042 GMT
+        Subject: 
+        Subject Public Key Info:
+            Public Key Algorithm: id-ecPublicKey
+                Public-Key: (256 bit)
+                pub:
+                    XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:
+                    XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:
+                    XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:
+                    XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:
+                    XX:XX:XX:XX:XX
+                ASN1 OID: prime256v1
+                NIST CURVE: P-256
+        X509v3 extensions:
+            X509v3 Subject Alternative Name: critical
+                XXXXXXX:XXXXXXXXXXXXXXXX:XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX:XXXXXXXX
+            X509v3 Basic Constraints: critical
+                CA:FALSE
+            X509v3 Extended Key Usage: 
+                2.23.133.8.1
+            X509v3 Authority Key Identifier: 
+                E4:A8:66:6F:8F:4C:6D:9C:39:32:A9:48:84:77:80:A6:81:0C:42:13
+            X509v3 Key Usage: critical
+                Key Agreement
+            X509v3 Subject Directory Attributes: 
+                0.0...g....1.0...2.0.......
+            Authority Information Access: 
+                CA Issuers - URI:https://www.nuvoton.com/security/NTC-TPM-EK-Cert/Nuvoton TPM Root CA 2112.cer
+    Signature Algorithm: ecdsa-with-SHA256
+    Signature Value:
+        XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:
+        XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:
+        XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:
+        XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX:XX
+

@@ -1,0 +1,3 @@
+	Manufacturer: LENOVO
+	Product Name: 82MD
+	Version: IdeaPad 3 15ITL6

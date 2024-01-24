@@ -1,0 +1,3 @@
+	Manufacturer: LENOVO
+	Product Name: 20L8S2N80D
+	Version: ThinkPad T480s

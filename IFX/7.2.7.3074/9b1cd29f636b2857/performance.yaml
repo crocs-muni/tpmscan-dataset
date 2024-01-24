@@ -1,0 +1,47 @@
+Execution date/time: "2023/03/15 11:56:49"
+Manufacturer: "IFX"
+Vendor string: "SLB9670"
+Firmware version: "7.2.7.3074"
+Image tag: "v2.2"
+Device manufacturer: "Intel Corporation"
+Device name: "PURLEY"
+Device version: "E63448-400"
+BIOS version: "PLYXCRB1.86B.0576.D20.1902150028"
+System information: "Linux beaker.redhat.com 4.18.0-425.13.1.el8_7.x86_64 #1 SMP Thu Feb 2 13:01:45 EST 2023 x86_64 x86_64 x86_64 GNU/Linux"
+
+
+TPM2_GetRandom:
+- data length (bytes): 32
+  operation stats (ms/op):
+    avg op: 4.68
+    min op: 4.43
+    max op: 5.01
+  operation info:
+    total iterations: 1000
+    successful: 1000
+    failed: 0
+    error: None
+
+TPM2_Hash:
+- hash algorithm: 0x0004
+  data length (bytes): 256
+  operation stats (ms/op):
+    avg op: 5.90
+    min op: 5.38
+    max op: 6.01
+  operation info:
+    total iterations: 1000
+    successful: 1000
+    failed: 0
+    error: None
+- hash algorithm: 0x000b
+  data length (bytes): 256
+  operation stats (ms/op):
+    avg op: 5.78
+    min op: 5.37
+    max op: 6.55
+  operation info:
+    total iterations: 1000
+    successful: 1000
+    failed: 0
+    error: None

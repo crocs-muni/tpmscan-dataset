@@ -1,0 +1,4 @@
+System Information
+	Manufacturer: LENOVO
+	Product Name: 82AA
+	Version: Yoga Slim 7 15IIL05

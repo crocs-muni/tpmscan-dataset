@@ -1,0 +1,3 @@
+	Manufacturer: LENOVO
+	Product Name: 82MS
+	Version: Yoga Slim 7 Pro 14ACH5

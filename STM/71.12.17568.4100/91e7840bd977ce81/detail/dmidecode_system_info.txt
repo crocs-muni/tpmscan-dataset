@@ -1,0 +1,3 @@
+	Manufacturer: LENOVO
+	Product Name: 20HES58A2G
+	Version: ThinkPad T470

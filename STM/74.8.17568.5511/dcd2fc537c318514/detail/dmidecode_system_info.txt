@@ -1,0 +1,3 @@
+	Manufacturer: Dell Inc.
+	Product Name: Latitude 3500
+	Version: Not Specified

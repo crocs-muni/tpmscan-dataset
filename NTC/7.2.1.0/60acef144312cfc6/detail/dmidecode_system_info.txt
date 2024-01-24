@@ -1,0 +1,3 @@
+	Manufacturer: OnLogic
+	Product Name: Karbon4X0
+	Version: TBD by OEM

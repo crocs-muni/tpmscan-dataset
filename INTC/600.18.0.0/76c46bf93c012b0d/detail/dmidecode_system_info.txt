@@ -1,0 +1,3 @@
+	Manufacturer: LENOVO
+	Product Name: 82SH
+	Version: IdeaPad 5 Pro 14IAP7

@@ -1,0 +1,4 @@
+System Information
+	Manufacturer: Dell Inc.
+	Product Name: Inspiron 15 7000 Gaming
+	Version: Not Specified

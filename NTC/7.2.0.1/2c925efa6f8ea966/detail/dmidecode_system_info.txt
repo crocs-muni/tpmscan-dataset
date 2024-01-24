@@ -1,0 +1,3 @@
+	Manufacturer: Dell Inc.
+	Product Name: Precision Tower 3430
+	Version: Not Specified

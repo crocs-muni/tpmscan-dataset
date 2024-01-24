@@ -1,0 +1,3 @@
+	Manufacturer: LENOVO
+	Product Name: 20Y7005WCK
+	Version: ThinkPad E14 Gen 3

@@ -1,0 +1,2 @@
+id,algorithm,curve,digest,signature_r,signature_s,private_key,public_key_x,public_key_y,nonce_point_x,nonce_point_y,duration,duration_extra,return_code
+0,001b,0003,,,,,,,,,0.077314854,0.000000000,02d2

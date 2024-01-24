@@ -1,0 +1,4 @@
+System Information
+	Manufacturer: LENOVO
+	Product Name: 20QUS10L0L
+	Version: ThinkPad P1 Gen2

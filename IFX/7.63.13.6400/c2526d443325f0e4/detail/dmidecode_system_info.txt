@@ -1,0 +1,4 @@
+System Information
+	Manufacturer: LENOVO
+	Product Name: 20L50007MC
+	Version: ThinkPad T480

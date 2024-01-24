@@ -1,0 +1,3 @@
+	Manufacturer: System manufacturer
+	Product Name: System Product Name
+	Version: System Version

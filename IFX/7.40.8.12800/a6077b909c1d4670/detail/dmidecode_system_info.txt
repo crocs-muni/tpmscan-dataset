@@ -1,0 +1,3 @@
+	Manufacturer: Intel Corporation
+	Product Name: PURLEY
+	Version: E63448-400

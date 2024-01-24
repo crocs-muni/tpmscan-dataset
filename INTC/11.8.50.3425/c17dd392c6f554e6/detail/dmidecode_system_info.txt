@@ -1,0 +1,4 @@
+System Information
+	Manufacturer: ASUSTeK COMPUTER INC.
+	Product Name: VivoBook S15 X510UF
+	Version: 1.0       

@@ -1,0 +1,3 @@
+	Manufacturer: Intel Corporation
+	Product Name: ArcherCity
+	Version: ....................

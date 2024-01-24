@@ -1,0 +1,3 @@
+	Manufacturer: HP
+	Product Name: HP ProBook 640 G5
+	Version:  

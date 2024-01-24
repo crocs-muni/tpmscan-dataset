@@ -1,0 +1,3 @@
+	Manufacturer: LENOVO
+	Product Name: 81SX
+	Version: Legion Y540-15IRH

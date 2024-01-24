@@ -1,0 +1,47 @@
+Execution date/time: "2023/03/14 19:04:16"
+Manufacturer: "IFX"
+Vendor string: "SLB9670"
+Firmware version: "7.40.8.12800"
+Image tag: "v2.2"
+Device manufacturer: "Intel Corporation"
+Device name: "S2600WFD"
+Device version: "...................."
+BIOS version: "SE5C620.86B.0X.02.0001.051420190324"
+System information: "Linux beaker.redhat.com 4.18.0-425.13.1.el8_7.x86_64 #1 SMP Thu Feb 2 13:01:45 EST 2023 x86_64 x86_64 x86_64 GNU/Linux"
+
+
+TPM2_GetRandom:
+- data length (bytes): 32
+  operation stats (ms/op):
+    avg op: 3.81
+    min op: 3.43
+    max op: 6.00
+  operation info:
+    total iterations: 1000
+    successful: 1000
+    failed: 0
+    error: None
+
+TPM2_Hash:
+- hash algorithm: 0x0004
+  data length (bytes): 256
+  operation stats (ms/op):
+    avg op: 5.81
+    min op: 5.38
+    max op: 8.00
+  operation info:
+    total iterations: 1000
+    successful: 1000
+    failed: 0
+    error: None
+- hash algorithm: 0x000b
+  data length (bytes): 256
+  operation stats (ms/op):
+    avg op: 5.87
+    min op: 5.37
+    max op: 8.00
+  operation info:
+    total iterations: 1000
+    successful: 1000
+    failed: 0
+    error: None

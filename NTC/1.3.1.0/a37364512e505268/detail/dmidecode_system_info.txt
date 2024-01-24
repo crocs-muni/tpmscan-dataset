@@ -1,0 +1,3 @@
+	Manufacturer: Dell Inc.
+	Product Name: PowerEdge R440
+	Version: Not Specified

@@ -1,0 +1,1 @@
+Linux algtest-live 5.19.11-200.fc36.x86_64 #1 SMP PREEMPT_DYNAMIC Fri Sep 23 15:07:44 UTC 2022 x86_64 x86_64 x86_64 GNU/Linux

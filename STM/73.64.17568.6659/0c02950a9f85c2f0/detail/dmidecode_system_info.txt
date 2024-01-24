@@ -1,0 +1,3 @@
+	Manufacturer: HPE
+	Product Name: Edgeline e920d
+	Version: Not Specified

@@ -1,0 +1,3 @@
+	Manufacturer: Acer
+	Product Name: Spin SP114-31N
+	Version: V1.05

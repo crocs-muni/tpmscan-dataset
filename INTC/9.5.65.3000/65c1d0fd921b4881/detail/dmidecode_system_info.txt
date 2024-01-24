@@ -1,0 +1,3 @@
+	Manufacturer: LENOVO
+	Product Name: 20AMS22U0A
+	Version: ThinkPad X240

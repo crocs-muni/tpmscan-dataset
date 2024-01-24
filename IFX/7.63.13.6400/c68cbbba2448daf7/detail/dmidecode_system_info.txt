@@ -1,0 +1,3 @@
+	Manufacturer: LENOVO
+	Product Name: 20L5000AMC
+	Version: ThinkPad T480

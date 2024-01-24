@@ -1,0 +1,3 @@
+	Manufacturer: Micro-Star International Co., Ltd.
+	Product Name: P65 Creator 8RF
+	Version: REV:1.0

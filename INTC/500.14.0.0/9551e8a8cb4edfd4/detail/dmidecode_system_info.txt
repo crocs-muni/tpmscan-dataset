@@ -1,0 +1,3 @@
+	Manufacturer: ASUSTeK COMPUTER INC.
+	Product Name: ASUS TUF Gaming F17 FX706LI_FX766LI
+	Version: 1.0

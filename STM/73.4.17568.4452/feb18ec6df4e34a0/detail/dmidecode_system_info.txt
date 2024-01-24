@@ -1,0 +1,4 @@
+System Information
+	Manufacturer: LENOVO
+	Product Name: 20KS006DMC
+	Version: ThinkPad E580

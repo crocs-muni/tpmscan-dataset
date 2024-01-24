@@ -1,0 +1,3 @@
+	Manufacturer: Lenovo
+	Product Name: ThinkSystem SR655 -[7Y98XXXXXX]-
+	Version: 0500   

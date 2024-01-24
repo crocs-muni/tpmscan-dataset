@@ -1,0 +1,3 @@
+	Manufacturer: C SYSTEM CZ
+	Product Name: CS OFFICE
+	Version: System Version

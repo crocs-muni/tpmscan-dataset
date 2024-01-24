@@ -1,0 +1,4 @@
+System Information
+	Manufacturer: LENOVO
+	Product Name: 81N8
+	Version: Lenovo IdeaPad S340-15IWL

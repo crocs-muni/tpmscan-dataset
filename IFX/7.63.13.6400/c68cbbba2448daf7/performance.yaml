@@ -1,0 +1,47 @@
+Execution date/time: "2023/02/22 06:49:50"
+Manufacturer: "IFX"
+Vendor string: "SLB9670"
+Firmware version: "7.63.13.6400"
+Image tag: "tpm2-algtest-ui v.0.5.2"
+Device manufacturer: "LENOVO"
+Device name: "20L5000AMC"
+Device version: "ThinkPad T480"
+BIOS version: "N24ET60W (1.35 )"
+System information: "Linux algtest-live 6.1.8-200.fc37.x86_64 #1 SMP PREEMPT_DYNAMIC Tue Jan 24 20:32:16 UTC 2023 x86_64 x86_64 x86_64 GNU/Linux"
+
+
+TPM2_GetRandom:
+- data length (bytes): 32
+  operation stats (ms/op):
+    avg op: 3.92
+    min op: 2.98
+    max op: 5.50
+  operation info:
+    total iterations: 1000
+    successful: 1000
+    failed: 0
+    error: None
+
+TPM2_Hash:
+- hash algorithm: 0x0004
+  data length (bytes): 256
+  operation stats (ms/op):
+    avg op: 4.81
+    min op: 3.90
+    max op: 6.31
+  operation info:
+    total iterations: 1000
+    successful: 1000
+    failed: 0
+    error: None
+- hash algorithm: 0x000b
+  data length (bytes): 256
+  operation stats (ms/op):
+    avg op: 4.76
+    min op: 3.43
+    max op: 7.06
+  operation info:
+    total iterations: 1000
+    successful: 1000
+    failed: 0
+    error: None

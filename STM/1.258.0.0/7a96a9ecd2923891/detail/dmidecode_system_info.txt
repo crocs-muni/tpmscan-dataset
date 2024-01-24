@@ -1,0 +1,3 @@
+	Manufacturer: LENOVO
+	Product Name: 20YG00AUCK
+	Version: ThinkPad E15 Gen 3
